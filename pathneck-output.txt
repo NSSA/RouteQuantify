@@ -1,0 +1,8 @@
+192.168.2.1 0.000 uk 97.262 router.belkin
+ 67.247.128.1 0.000 uk 3659.676 cable-mac1.hnrtnyaf-ar4001.nyroc.rr.com
+ 24.93.9.206 0.000 uk 1663.447 cpe-24-93-9-206.rochester.res.rr.com
+ 72.230.153.4 1580.272 ub 1663.581 rdc-72-230-153-4.wny.northeast.rr.com
+ 72.230.153.243 1106.190 lb 1664.350 rdc-72-230-153-243.wny.northeast.rr.com
+ 66.109.6.72 681.539 ub 1664.219 ae-3-0.cr0.chi10.tbone.rr.com
+ 107.14.17.192 466.034 ub 1664.029 107.14.17.192
+ RTT 
